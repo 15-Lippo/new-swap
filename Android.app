@@ -6,5 +6,5 @@
     <data android:scheme="http" />
     <data android:scheme="https" />
 
-    <data android:host="myownpersonaldomain.com" />
+    <data android:host="https:www.lisprocoin.net" />
 </intent-filter>
